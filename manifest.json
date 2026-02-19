@@ -11,11 +11,10 @@
     "tabs"
   ],
   "host_permissions": [
-    "https://intra.laplateforme.io/*",
+    "https://intra.pro.laplateforme.io/*",
     "https://github.com/*",
     "https://*.students-laplateforme.io/*",
     "https://www.figma.com/*",
-    "https://balsamiq.cloud/*",
     "https://students-laplateforme.io:8443/*"
   ],
   "action": {

@@ -1,6 +1,6 @@
 # LaPlateforme.io - Hub Étudiant
 
-![Logo](https://intra.laplateforme.io/assets/img/logo.png)
+![Logo](https://intra.pro.laplateforme.io/assets/img/logo.png)
 
 **LaPlateforme.io - Hub Étudiant** est une extension Chrome qui centralise tous les outils essentiels pour les étudiants de LaPlateforme.io, offrant un accès rapide et intuitif à vos espaces personnels, outils de développement et plateformes de design.
 
@@ -9,21 +9,21 @@
 ## 📌 Fonctionnalités
 
 - **Gestion des emails étudiants** : sauvegarde et utilisation de votre email `@laplateforme.io`
-- **Vérification des sessions** : détecte si vous êtes connecté sur Plesk, Figma ou Balsamiq
+- **Vérification des sessions** : détecte si vous êtes connecté sur Plesk ou Figma
 - **Accès rapide aux outils** :
   - **LaPlateforme** : Intra
-  - **Intérim** : Armado, Campus La Varappe
+  - **Intérim** : Armado
   - **Local** : Localhost, PhpMyAdmin
   - **Développement** : GitHub, site GitHub, Panel Plesk, site Plesk
-  - **Design & Outils** : Figma, Balsamiq
+  - **Design & Outils** : Figma
 - **Interface interactive** : notifications toast, cartes dynamiques et interface responsive
-- **Support du lien Campus La Varappe** : possibilité de coller le lien reçu par email pour un accès direct
 
 ---
 
 ## 🛠 Installation
 
 1. Clonez le dépôt :
+
    ```bash
    git clone https://github.com/pascal-fortunati/laplateforme-hub.git
    ```
@@ -43,7 +43,7 @@
 1. Cliquez sur l'icône de l'extension dans Chrome
 2. Saisissez votre email `@laplateforme.io` pour configurer votre compte
 3. Accédez rapidement aux différents outils directement depuis le hub
-4. Les outils Plesk, Figma et Balsamiq afficheront si vous êtes déjà connecté ou non
+4. Les outils Plesk et Figma afficheront si vous êtes déjà connecté ou non
 
 ---
 
